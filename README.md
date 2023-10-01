@@ -1,2 +1,2 @@
 # Machine-Learning
-25 plus Machine Projects
+25 plus Machine Learning Projects
