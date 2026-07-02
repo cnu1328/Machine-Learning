@@ -1,0 +1,29 @@
+# Machine Learning Course — core dependencies (Modules 00–03)
+# Add PyTorch, GDAL, etc. when reaching Module 05+
+
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+scikit-learn>=1.5
+jupyterlab>=4.0
+ipykernel>=6.29
+
+# Module 05+ (Deep Learning, CNN, Segmentation)
+torch>=2.0
+torchvision>=0.15
+segmentation-models-pytorch>=0.3
+albumentations>=1.4
+ultralytics>=8.0
+timm>=0.9
+mlflow>=2.10
+onnx>=1.15
+onnxruntime>=1.17
+fastapi>=0.110
+uvicorn>=0.27
+tensorboard>=2.15
+xgboost>=2.0
+lightgbm>=4.0
+catboost>=1.2
+umap-learn>=0.5
